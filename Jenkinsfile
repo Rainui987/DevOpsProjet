@@ -1,7 +1,7 @@
 node {
 
 stage('SCM'){
- git 'https://github.com/Rainui987/DevOpsProjet/microservice-compte-comptable'
+ git 'https://github.com/Rainui987/DevOpsProjet/tree/master/microservice-compte-comptable'
 }
 
 stage('Compile'){
