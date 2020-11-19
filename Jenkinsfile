@@ -1,7 +1,7 @@
 node {
 
 stage('SCM'){
- git 'https://github.com/FleuryGabriel/Gestion_Comptable_Back'
+ git 'https://github.com/Rainui987/DevOpsProjet'
 }
 
 stage('Compile'){
